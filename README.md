@@ -1,1 +1,1 @@
-# Consistency-and-Inconsistency-Project
+# Consistency and Inconsistency Project
