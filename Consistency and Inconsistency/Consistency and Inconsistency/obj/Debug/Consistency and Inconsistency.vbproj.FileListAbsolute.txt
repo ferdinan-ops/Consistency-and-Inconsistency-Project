@@ -1,0 +1,15 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Consistency and Inconsistency\bin\Debug\Consistency and Inconsistency.exe.config
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Consistency & Inconsistency Project\Consistency and Inconsistency\Consistency and Inconsistency\bin\Debug\Consistency and Inconsistency.exe.config
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Consistency & Inconsistency Project\Consistency and Inconsistency\Consistency and Inconsistency\obj\Debug\Consistency_and_Inconsistency.Consistency___Petunjuk.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Consistency & Inconsistency Project\Consistency and Inconsistency\Consistency and Inconsistency\obj\Debug\Consistency_and_Inconsistency.Consistency_Game.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Consistency & Inconsistency Project\Consistency and Inconsistency\Consistency and Inconsistency\obj\Debug\Consistency_and_Inconsistency.Consistency_Hasil.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Consistency & Inconsistency Project\Consistency and Inconsistency\Consistency and Inconsistency\obj\Debug\Consistency_and_Inconsistency.Consistency.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Consistency & Inconsistency Project\Consistency and Inconsistency\Consistency and Inconsistency\obj\Debug\Consistency_and_Inconsistency.Resources.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Consistency & Inconsistency Project\Consistency and Inconsistency\Consistency and Inconsistency\obj\Debug\Consistency and Inconsistency.vbproj.GenerateResource.Cache
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Consistency & Inconsistency Project\Consistency and Inconsistency\Consistency and Inconsistency\bin\Debug\Consistency and Inconsistency.exe
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Consistency & Inconsistency Project\Consistency and Inconsistency\Consistency and Inconsistency\bin\Debug\Consistency and Inconsistency.pdb
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Consistency & Inconsistency Project\Consistency and Inconsistency\Consistency and Inconsistency\bin\Debug\Consistency and Inconsistency.xml
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Consistency & Inconsistency Project\Consistency and Inconsistency\Consistency and Inconsistency\bin\Debug\Guna.UI.dll
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Consistency & Inconsistency Project\Consistency and Inconsistency\Consistency and Inconsistency\obj\Debug\Consistency and Inconsistency.exe
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Consistency & Inconsistency Project\Consistency and Inconsistency\Consistency and Inconsistency\obj\Debug\Consistency and Inconsistency.xml
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Consistency & Inconsistency Project\Consistency and Inconsistency\Consistency and Inconsistency\obj\Debug\Consistency and Inconsistency.pdb
