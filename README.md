@@ -1,5 +1,6 @@
 # Consistency and Inconsistency Project
 <p>Menggunakan komputer melibatkan sejumlah besar tindakan dari sisi pengguna yang sering dilakukan pada tingkat yang sangat cepat. Tindakan seperti menunjuk, mengklik, menyeret, menempatkan harus dilakukan dalam siklus berulang oleh pengguna. Hal ini sering menyebabkan pembentukan kebiasaan untuk lingkungan antarmuka tertentu.</p>
+<p>Jika dialog antara pengguna dan antarmuka terdiri dari pola acak, itu menyebabkan peningkatan beban kognitif. Oleh karena itu penting bagi interaksi untuk tidak hanya dapat diandalkan tetapi juga konsisten di semua antarmuka. Inkonsistensi menyebabkan ketidakpastian yang berkontribusi terhadap inefisiensi dan Kesalahan berpotensi bias terjadi.</p>
 
 <!-- <h2>What I Used</h2>
 <h2>Goals</h2> -->
