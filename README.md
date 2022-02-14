@@ -1,6 +1,6 @@
 # Consistency and Inconsistency Project
+<p>Menggunakan komputer melibatkan sejumlah besar tindakan dari sisi pengguna yang sering dilakukan pada tingkat yang sangat cepat. Tindakan seperti menunjuk, mengklik, menyeret, menempatkan harus dilakukan dalam siklus berulang oleh pengguna. Hal ini sering menyebabkan pembentukan kebiasaan untuk lingkungan antarmuka tertentu.</p>
 
-<h2>Description</h2>
 <!-- <h2>What I Used</h2>
 <h2>Goals</h2> -->
 
