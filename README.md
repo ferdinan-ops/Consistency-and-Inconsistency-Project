@@ -6,3 +6,4 @@
 
 # Screenshoots
 ![Home](https://user-images.githubusercontent.com/84588706/153857534-1751a03f-8422-40bb-b9de-344144d75bf6.jpg)
+![Guide](https://user-images.githubusercontent.com/84588706/153857613-559b0196-f3db-401a-ba04-e4b993824cc5.jpg)
