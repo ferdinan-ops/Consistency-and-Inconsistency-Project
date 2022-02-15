@@ -8,7 +8,11 @@
   <li>Anda akan diperkenalkan dengan aturan konvensional konsistensi dalam warna, bentuk, tindakan, label dan tata letak layar.</li>
   <li>Anda akan dapat memverifikasi efek inkonsistensi dalam antarmuka yang menyebabkan peningkatan kesalahan dan waktu yang dibutuhkan untuk melakukan tugas.</li>
 </ul>
-<h2>What I Used</h2>
+<h2>Apa yang Saya Gunakan</h2>
+<ul>
+  <li><b>Bahasa Pemrograman:</b> Visual Basic</li>
+  
+</ul>
 
 # Screenshoots
 ![Home](https://user-images.githubusercontent.com/84588706/153857534-1751a03f-8422-40bb-b9de-344144d75bf6.jpg)
