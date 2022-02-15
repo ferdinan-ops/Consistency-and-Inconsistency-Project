@@ -5,7 +5,7 @@
 <h2>Goals</h2>
 <ul>
   <li>Anda akan memahami "prinsip konsistensi" untuk merancang antarmuka pengguna.</li>
-  <li></li>
+  <li>Anda akan diperkenalkan dengan aturan konvensional konsistensi dalam warna, bentuk, tindakan, label dan tata letak layar.</li>
   <li></li>
 </ul>
 <!-- <h2>What I Used</h2> -->
