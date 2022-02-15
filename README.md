@@ -4,7 +4,7 @@
 <p>Dalam percobaan ini diperlukan kewaspadaan, penuh perhatian dan cepat dalam bereaksi terhadap rangsangan dari layar komputer. Meskipun situasi eksperimental dan situasi interaksi sederhana, kemungkinan melakukan kesalahan masih tetap ada.</p>
 <h2>Goals</h2>
 <ul>
-  <li></li>
+  <li>Anda akan memahami "prinsip konsistensi" untuk merancang antarmuka pengguna.</li>
   <li></li>
   <li></li>
 </ul>
