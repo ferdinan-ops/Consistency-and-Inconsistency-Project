@@ -6,7 +6,7 @@
 <ul>
   <li>Anda akan memahami "prinsip konsistensi" untuk merancang antarmuka pengguna.</li>
   <li>Anda akan diperkenalkan dengan aturan konvensional konsistensi dalam warna, bentuk, tindakan, label dan tata letak layar.</li>
-  <li></li>
+  <li>Anda akan dapat memverifikasi efek inkonsistensi dalam antarmuka yang menyebabkan peningkatan kesalahan dan waktu yang dibutuhkan untuk melakukan tugas.</li>
 </ul>
 <!-- <h2>What I Used</h2> -->
 
