@@ -3,6 +3,11 @@
 <p>Jika dialog antara pengguna dan antarmuka terdiri dari pola acak, itu menyebabkan peningkatan beban kognitif. Oleh karena itu penting bagi interaksi untuk tidak hanya dapat diandalkan tetapi juga konsisten di semua antarmuka. Inkonsistensi menyebabkan ketidakpastian yang berkontribusi terhadap inefisiensi dan Kesalahan berpotensi bias terjadi.</p>
 <p>Dalam percobaan ini diperlukan kewaspadaan, penuh perhatian dan cepat dalam bereaksi terhadap rangsangan dari layar komputer. Meskipun situasi eksperimental dan situasi interaksi sederhana, kemungkinan melakukan kesalahan masih tetap ada.</p>
 <h2>Goals</h2>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 <!-- <h2>What I Used</h2> -->
 
 # Screenshoots
