@@ -12,6 +12,8 @@
 <ul>
   <li><b>Bahasa Pemrograman:</b> Visual Basic</li>
   <li><b>IDE:</b> Microsoft Visual Studio 2012</li>
+  <li><b>Framework:</b> GUNA UI</li>
+  
 </ul>
 
 # Screenshoots
