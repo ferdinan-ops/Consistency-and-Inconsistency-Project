@@ -14,6 +14,7 @@
   <li><b>IDE:</b> Microsoft Visual Studio 2012</li>
   <li><b>Framework:</b> GUNA UI</li>
   <li><b>Pictures:</b> Dribble, Flaticon, Pinterest</li>
+  <li><b>Referensi desain:</b> Dribble</li>
 
 </ul>
 
