@@ -11,7 +11,7 @@
 <h2>Apa yang Saya Gunakan</h2>
 <ul>
   <li><b>Bahasa Pemrograman:</b> Visual Basic</li>
-  
+  <li><b>IDE:</b> Microsoft Visual Studio 2012</li>
 </ul>
 
 # Screenshoots
