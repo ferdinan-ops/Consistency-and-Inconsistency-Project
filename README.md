@@ -24,21 +24,16 @@
     <h3>Home</h3>
     <img src="https://user-images.githubusercontent.com/84588706/153857534-1751a03f-8422-40bb-b9de-344144d75bf6.jpg" alt="Home">
   </li>
-  <li>
+<!--  <li>
     <h3>Guide</h3>
-    <img src="" alt="Guide">
+    <img src="https://user-images.githubusercontent.com/84588706/153857613-559b0196-f3db-401a-ba04-e4b993824cc5.jpg" alt="Guide">
   </li>
   <li>
     <h3>Game</h3>
-    <img src="" alt="Game">
+    <img src="https://user-images.githubusercontent.com/84588706/153857718-9a184fd4-e1f7-4b4d-9f06-5779d2847f59.jpg" alt="Game">
   </li>
   <li>
     <h3>Result</h3>
-    <img src="" alt="Result">
-  </li>
-</ul>
-
-![Home]()
-![Guide](https://user-images.githubusercontent.com/84588706/153857613-559b0196-f3db-401a-ba04-e4b993824cc5.jpg)
-![Game](https://user-images.githubusercontent.com/84588706/153857718-9a184fd4-e1f7-4b4d-9f06-5779d2847f59.jpg)
-![Result](https://user-images.githubusercontent.com/84588706/153857788-eebba38b-aee8-4b46-a15a-2bf77cbfeece.jpg)
+    <img src="https://user-images.githubusercontent.com/84588706/153857788-eebba38b-aee8-4b46-a15a-2bf77cbfeece.jpg" alt="Result">
+  </li>-->
+</ul> 
