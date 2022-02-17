@@ -29,8 +29,8 @@
     <img src="" alt="Guide">
   </li>
   <li>
-    <h3></h3>
-    <img src="" alt="">
+    <h3>Game</h3>
+    <img src="" alt="Game">
   </li>
   <li>
     <h3></h3>
