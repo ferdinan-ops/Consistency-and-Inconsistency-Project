@@ -21,20 +21,20 @@
 <h2>Screenshoots</h2>
 <ul>
   <li>
-    <h3></h3>
-    <img src="" alt=""
+    <h3>Home</h3>
+    <img src="" alt="Home">
   </li>
   <li>
     <h3></h3>
-    <img src="" alt=""
+    <img src="" alt="">
   </li>
   <li>
     <h3></h3>
-    <img src="" alt=""
+    <img src="" alt="">
   </li>
   <li>
     <h3></h3>
-    <img src="" alt=""
+    <img src="" alt="">
   </li>
 </ul>
 
