@@ -33,8 +33,8 @@
     <img src="" alt="Game">
   </li>
   <li>
-    <h3></h3>
-    <img src="" alt="">
+    <h3>Result</h3>
+    <img src="" alt="Result">
   </li>
 </ul>
 
