@@ -25,8 +25,8 @@
     <img src="" alt="Home">
   </li>
   <li>
-    <h3></h3>
-    <img src="" alt="">
+    <h3>Guide</h3>
+    <img src="" alt="Guide">
   </li>
   <li>
     <h3></h3>
