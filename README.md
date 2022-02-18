@@ -28,11 +28,11 @@
     <h3>Guide</h3>
     <img src="https://user-images.githubusercontent.com/84588706/153857613-559b0196-f3db-401a-ba04-e4b993824cc5.jpg" alt="Guide">
   </li>
- <!-- <li>
+  <li>
     <h3>Game</h3>
     <img src="https://user-images.githubusercontent.com/84588706/153857718-9a184fd4-e1f7-4b4d-9f06-5779d2847f59.jpg" alt="Game">
   </li>
-  <li>
+ <!-- <li>
     <h3>Result</h3>
     <img src="https://user-images.githubusercontent.com/84588706/153857788-eebba38b-aee8-4b46-a15a-2bf77cbfeece.jpg" alt="Result">
   </li>-->
